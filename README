@@ -1,0 +1,7 @@
+# MySQL and Python Integration
+
+1. This project demonstrates how to connect Python with a MySQL database. 
+2. It includes Python code for creating a database, defining a table, inserting sample records, and retrieving data. 
+3. The corresponding SQL commands are also provided for manual execution. 
+4. Perfect for learning database integration in Python.
+
